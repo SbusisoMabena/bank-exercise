@@ -10,6 +10,6 @@ Create a banking system fulfilling the requirements specified below.
 - There are different types of **accounts**: **savings** and **checking**.
 - **Checking accounts** can have multiple types, **money market** and **individual**.
 - **Individual accounts** can't withdraw more than $1000 at a time.
-- An **account holder** must be able to **deposit**, **withdraw**, **transfer** and print a **statement** funds.
+- An **account holder** must be able to **deposit**, **withdraw**, **transfer** funds and print a **statement**.
 
 Your solution must have tests.
